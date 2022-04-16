@@ -1,0 +1,13 @@
+S:\1Coding1\.NET\LSD_233_DAW_DAL\bin\Debug\netcoreapp3.1\LSD_233_DAW_DAL.deps.json
+S:\1Coding1\.NET\LSD_233_DAW_DAL\bin\Debug\netcoreapp3.1\LSD_233_DAW_DAL.runtimeconfig.json
+S:\1Coding1\.NET\LSD_233_DAW_DAL\bin\Debug\netcoreapp3.1\LSD_233_DAW_DAL.runtimeconfig.dev.json
+S:\1Coding1\.NET\LSD_233_DAW_DAL\bin\Debug\netcoreapp3.1\LSD_233_DAW_DAL.dll
+S:\1Coding1\.NET\LSD_233_DAW_DAL\bin\Debug\netcoreapp3.1\LSD_233_DAW_DAL.pdb
+S:\1Coding1\.NET\LSD_233_DAW_DAL\obj\Debug\netcoreapp3.1\LSD_233_DAW_DAL.csproj.AssemblyReference.cache
+S:\1Coding1\.NET\LSD_233_DAW_DAL\obj\Debug\netcoreapp3.1\LSD_233_DAW_DAL.GeneratedMSBuildEditorConfig.editorconfig
+S:\1Coding1\.NET\LSD_233_DAW_DAL\obj\Debug\netcoreapp3.1\LSD_233_DAW_DAL.AssemblyInfoInputs.cache
+S:\1Coding1\.NET\LSD_233_DAW_DAL\obj\Debug\netcoreapp3.1\LSD_233_DAW_DAL.AssemblyInfo.cs
+S:\1Coding1\.NET\LSD_233_DAW_DAL\obj\Debug\netcoreapp3.1\LSD_233_DAW_DAL.csproj.CoreCompileInputs.cache
+S:\1Coding1\.NET\LSD_233_DAW_DAL\obj\Debug\netcoreapp3.1\LSD_233_DAW_DAL.dll
+S:\1Coding1\.NET\LSD_233_DAW_DAL\obj\Debug\netcoreapp3.1\LSD_233_DAW_DAL.pdb
+S:\1Coding1\.NET\LSD_233_DAW_DAL\obj\Debug\netcoreapp3.1\LSD_233_DAW_DAL.genruntimeconfig.cache
